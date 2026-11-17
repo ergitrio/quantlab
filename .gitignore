@@ -1,0 +1,13 @@
+# rahasia
+.env
+# data pribadi akun latihan
+paper_account.json
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+# lain-lain
+*.zip
+equity.png

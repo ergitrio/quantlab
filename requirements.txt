@@ -1,0 +1,11 @@
+pandas
+numpy
+scipy
+matplotlib
+pytest
+streamlit          # dashboard lama (app.py)
+fastapi            # Quant Desk web
+uvicorn[standard]
+httpx              # data Binance (kripto real-time)
+yfinance           # data saham/indeks/forex/komoditas dunia
+anthropic          # AI agent (butuh ANTHROPIC_API_KEY)
